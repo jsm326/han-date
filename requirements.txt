@@ -7,3 +7,9 @@ scikit-learn
 jupyterlab
 streamlit
 pingouin
+scipy
+chardet
+gdown
+xlsxwriter
+sqlalchemy
+beautifulsoup4
