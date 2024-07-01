@@ -132,6 +132,8 @@ venv.bak/
 
 test_date
 
+kaggle
+
 # Spyder project settings
 .spyderproject
 .spyproject
